@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@formspree/react": "^2.5.1",
-    "axios": "^0.27.2",
+    "axios": "^0.34.0",
     "ether": "^0.0.9",
     "next": "^12.2.5",
     "react": "18.2.0",
